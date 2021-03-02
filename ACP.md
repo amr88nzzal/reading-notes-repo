@@ -10,10 +10,10 @@
  
  ## Table ==>
  
-No. | Comand           | Desc. 
---- | -----------------| ------
-1   | Clone            | download a copy of a project
-2   | add *            | Track all files in a repository 
-3   | Commit -m " "    | commit the changes with a message
-4   | Push origin main | push changes to the remote repository
+No. | Comand             | Desc. 
+--- | -----------------  | ------
+1   | `Clone`            | download a copy of a project
+2   | `add *`            | Track all files in a repository 
+3   | `Commit -m " "`    | commit the changes with a message
+4   | `Push origin main` | push changes to the remote repository
 
