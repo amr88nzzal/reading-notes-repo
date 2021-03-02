@@ -14,5 +14,5 @@
 
 No. |         Project         | Link                | Github Page
 --- | ------------------------| --------------------|-------------------------------
-1   |        Growth Mindset   | [Open](https://github.com/amr88nzzal/reading-notes-repo/blob/main/Growth.md)| [Open](https://amr88nzzal.github.io/markdownTest/)
-2   |        Git    ACP       | [Open](https://github.com/amr88nzzal/reading-notes-repo/blob/main/ACP.md)   | [Open](https://amr88nzzal.github.io/git-ACP/)
+1   |        Growth Mindset   | [Open](https://github.com/amr88nzzal/reading-notes-repo/blob/main/Growth.md)| [Open](https://amr88nzzal.github.io/reading-notes-repo/Growth)
+2   |        Git    ACP       | [Open](https://github.com/amr88nzzal/reading-notes-repo/blob/main/ACP.md)   | [Open](https://amr88nzzal.github.io/reading-notes-repo/ACP)
