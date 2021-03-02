@@ -2,11 +2,8 @@
 
 **________________________________** 
 
-![MyImage](https://img.devrant.com/devrant/rant/r_1693608_nL5Sq.jpg)
+![MyImage](https://hikaruzone.files.wordpress.com/2015/10/in-case-of-fire-1-git-commit-2-git-push-3-leave-building2.png?w=1200)
  
-  > If you build it they will come
-
-
 **________________________________** 
  Some commands for ((**git**))
  ## Table ==>
