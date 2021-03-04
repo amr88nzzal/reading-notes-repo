@@ -3,8 +3,8 @@
 ## Software Developer
 
 ### Email  : amr.nzzal@gmail.com
-### Mobile : +962789334963
-### Facebook: www.facebook.com/amr.nzzal
+### Mobile &phone; : +962789334963
+### Facebook: [Goto](https://www.facebook.com/amr.nzzal)
 .
 
 ![programmer](https://st.depositphotos.com/1429923/3996/v/600/depositphotos_39965389-stock-illustration-flat-vector-illustration-of-programmer.jpg)
@@ -12,7 +12,8 @@
 .
 
 
-No. |         Project         | Link                | Github Page
+No. |         Project         | MD Link             | Github Page
 --- | ------------------------| --------------------|-------------------------------
 1   |        Growth Mindset   | [Open](https://github.com/amr88nzzal/reading-notes-repo/blob/main/Growth.md)| [Open](https://amr88nzzal.github.io/reading-notes-repo/Growth)
 2   |        Git    ACP       | [Open](https://github.com/amr88nzzal/reading-notes-repo/blob/main/ACP.md)   | [Open](https://amr88nzzal.github.io/reading-notes-repo/ACP)
+3   |      Read 03            | [Open](https://github.com/amr88nzzal/reading-notes-repo/blob/main/Read03.md)   | [Open](https://amr88nzzal.github.io/reading-notes-repo/Read03) 
