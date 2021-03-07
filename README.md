@@ -20,3 +20,4 @@ No. |         Project         | MD Link             | Github Page
 4   |      Read 04a           | [Open](https://github.com/amr88nzzal/reading-notes-repo/blob/main/Read04a.md)   | [Open](https://amr88nzzal.github.io/reading-notes-repo/Read04a) 
 5   |      Read 04b           | [Open](https://github.com/amr88nzzal/reading-notes-repo/blob/main/read04b.md)   | [Open](https://amr88nzzal.github.io/reading-notes-repo/read04b)
 6   |      Read 04c           | [Open](https://github.com/amr88nzzal/reading-notes-repo/blob/main/read04c.md)   | [Open](https://amr88nzzal.github.io/reading-notes-repo/read04c)
+7   |      Read 05            | [Open](https://github.com/amr88nzzal/reading-notes-repo/blob/main/read05.md)   | [Open](https://amr88nzzal.github.io/reading-notes-repo/read05)
